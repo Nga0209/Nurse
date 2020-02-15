@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5874084-89bb-49c7-a264-f0e8317d33bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XW6FAzKDAWjYBXdfnxSIkk6W5D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Gradle.NurseSearchCaseByIdInQuestionPoolPage">
+    <configuration name="NurseCanAddNoteInPatientProfileTest.addNoteInListPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;net.ngaheo.nurseautomationtest.NurseCanAddNoteInPatientProfileTest.addNoteInListPage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NurseSearchCaseByIdInQuestionPoolPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;net.ngaheo.nurseautomationtest.NurseSearchCaseByIdInQuestionPoolPage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="NurseSearchCaseByIdInQuestionPoolPage.searchById" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;net.ngaheo.nurseautomationtest.NurseSearchCaseByIdInQuestionPoolPage.searchById&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchCaseByIdInQuestionPoolPage" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;net.ngaheo.nurseautomationtest.SearchCaseByIdInQuestionPoolPage&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SearchCaseByIdInQuestionPoolPage.searchById" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;net.ngaheo.nurseautomationtest.SearchCaseByIdInQuestionPoolPage.searchById&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.NurseSearchCaseByIdInQuestionPoolPage" />
+        <item itemvalue="Gradle.NurseSearchCaseByIdInQuestionPoolPage.searchById" />
+        <item itemvalue="Gradle.SearchCaseByIdInQuestionPoolPage.searchById" />
+        <item itemvalue="Gradle.SearchCaseByIdInQuestionPoolPage" />
+        <item itemvalue="Gradle.NurseCanAddNoteInPatientProfileTest.addNoteInListPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5874084-89bb-49c7-a264-f0e8317d33bd" name="Default Changelist" comment="" />
+      <created>1581149397297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581149397297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="373" y="134" key="#Project_Structure" timestamp="1581755876573">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1581149885639" />
+    <state x="373" y="134" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1581755876573" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581153776238">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581153776238" />
+    <state x="622" y="202" key="#com.intellij.ide.util.MemberChooser" timestamp="1581246220791">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="474" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800@0.0.1280.800" timestamp="1581157653115" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1581152923110" />
+    <state x="622" y="202" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581246220791" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom" timestamp="1581761517400">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581158992670" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581154300354" />
+    <state width="1638" height="245" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581761517400" />
+    <state width="1638" height="362" key="GridCell.Tab.0.bottom/0.23.1680.973@0.23.1680.973" timestamp="1581302025689" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center" timestamp="1581761517398">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1581158992669" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581154300353" />
+    <state width="1638" height="245" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581761517398" />
+    <state width="1638" height="362" key="GridCell.Tab.0.center/0.23.1680.973@0.23.1680.973" timestamp="1581302025688" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left" timestamp="1581761517398">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1581158992668" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581154300352" />
+    <state width="1638" height="245" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581761517398" />
+    <state width="1638" height="362" key="GridCell.Tab.0.left/0.23.1680.973@0.23.1680.973" timestamp="1581302025688" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right" timestamp="1581761517399">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1238" height="245" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1581158992669" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581154300353" />
+    <state width="1638" height="245" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581761517399" />
+    <state width="1638" height="362" key="GridCell.Tab.0.right/0.23.1680.973@0.23.1680.973" timestamp="1581302025689" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom" timestamp="1581302025691">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1581154879181" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1581245090359" />
+    <state width="1638" height="362" key="GridCell.Tab.1.bottom/0.23.1680.973@0.23.1680.973" timestamp="1581302025691" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center" timestamp="1581302025690">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1581154879180" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1581245090355" />
+    <state width="1638" height="362" key="GridCell.Tab.1.center/0.23.1680.973@0.23.1680.973" timestamp="1581302025690" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left" timestamp="1581302025690">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1581154879179" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1581245090354" />
+    <state width="1638" height="362" key="GridCell.Tab.1.left/0.23.1680.973@0.23.1680.973" timestamp="1581302025690" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right" timestamp="1581302025690">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state width="1238" height="263" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1581154879180" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1581245090356" />
+    <state width="1638" height="362" key="GridCell.Tab.1.right/0.23.1680.973@0.23.1680.973" timestamp="1581302025690" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1581149477342">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581149477342" />
+    <state x="746" y="447" key="SimpleOpenTaskDialog" timestamp="1581246121259">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="746" y="447" key="SimpleOpenTaskDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581246121259" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1581149411492">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581149411492" />
+    <state x="505" y="248" key="run.anything.popup" timestamp="1581749739561">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="248" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581749739561" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581153876790">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581153876790" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/net/ngaheo/nurseautomationtest/pages/SideMenu.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
